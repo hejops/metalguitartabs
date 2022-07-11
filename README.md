@@ -1,4 +1,4 @@
-title:
+<!-- title: -->
 
 A repository for hosting tablature published on my blog, [Metal Guitar Tabs](https://metalguitartabs.wordpress.com/).
 
